@@ -3,12 +3,7 @@
 
   I am a programmer AI major. I am passionate about artificial intelligence and how it can transform the world for the better. My goal is to become a professional AI developer and researcher, and to contribute to the advancement of this field. I am always eager to learn new skills and technologies, and to collaborate with other like-minded people. 
 
-# 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Minhduc2323&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Minhduc2323&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhduc2323&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ---
