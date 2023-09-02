@@ -1,4 +1,5 @@
-# Hi, I’m Minh Duc 😎😘 
+# Welcome to my profile 
+![Header](./your-header-image-name.png) 
 I’m a student who is passionate about learning about Computer Programs and open source. I enjoy learning new things and sharing my knowledge with others.
 
 ## I’m currently studying🎓: 
