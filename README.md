@@ -1,7 +1,7 @@
 # My name is Minh Duc  
 ![Header](https://github.com/Minhduc2323/Minhduc2323/blob/main/github-header-image%20(3).png) 
 
- ###### I am a programmer AI major. I am passionate about artificial intelligence and how it can transform the world for the better. My goal is to become a professional AI developer and researcher, and to contribute to the advancement of this field. I am always eager to learn new skills and technologies, and to collaborate with other like-minded people. 
+ #### I am a programmer AI major. I am passionate about artificial intelligence and how it can transform the world for the better. My goal is to become a professional AI developer and researcher, and to contribute to the advancement of this field. I am always eager to learn new skills and technologies, and to collaborate with other like-minded people. 
 
 # 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Minhduc2323&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
