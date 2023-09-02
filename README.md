@@ -20,7 +20,7 @@
 
 ---
 
-  ## 💰You can also donating by:
+  ## 💰You can also donate by:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Jack2r) 
 
   
