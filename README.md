@@ -1,6 +1,7 @@
 # My name is Minh Duc  
-![Header](https://github.com/Minhduc2323/Minhduc2323/blob/main/github-header-image%20(2).png) 
-I’m a student who is passionate about learning about Computer Programs and open source. I enjoy learning new things and sharing my knowledge with others.
+![Header](https://github.com/Minhduc2323/Minhduc2323/blob/main/github-header-image%20(3).png) 
+
+*I’m a student who is passionate about learning about Computer Programs and open source. I enjoy learning new things and sharing my knowledge with others.
 
 ## I’m currently studying🎓: 
 -Artificial Intelligent major at FPT University 
